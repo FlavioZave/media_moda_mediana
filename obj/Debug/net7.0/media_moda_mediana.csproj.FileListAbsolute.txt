@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\bin\Debug\net7.0\media_moda_mediana.exe
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\bin\Debug\net7.0\media_moda_mediana.deps.json
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\bin\Debug\net7.0\media_moda_mediana.runtimeconfig.json
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\bin\Debug\net7.0\media_moda_mediana.dll
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\bin\Debug\net7.0\media_moda_mediana.pdb
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.AssemblyInfo.cs
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.dll
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\refint\media_moda_mediana.dll
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.pdb
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\media_moda_mediana.genruntimeconfig.cache
+C:\Users\Flavio\Documents\C_Sharp\Projetos_Pessoais\media_moda_mediana\obj\Debug\net7.0\ref\media_moda_mediana.dll
